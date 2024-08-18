@@ -372,3 +372,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.no-italic {
+  font-style: normal;
+}
