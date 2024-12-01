@@ -13,7 +13,7 @@ header:
 <ul>
 <li>[Nov 2024] Multimodal Large Language Model and Its Healthcare Application, Seminar at University of Hawaii at Manoa</li>
 <li>[Feb 2024] CARES Copilot, A Multi-modality Surgery AI Assistant, Seminar at Deptartment of Surgery, CUHK, Invited by Dr. <a href="https://www.surgery.cuhk.edu.hk/profile.asp?alias=peterwoo">Peter Y.M. Woo</a></li>
-<li>[Dec 2023] Towards Intelligent Medical Image Analysis, Seminar at DHarbin Institute of Technology (Shenzhen)</li>
+<li>[Dec 2023] Towards Intelligent Medical Image Analysis, Seminar at Harbin Institute of Technology (Shenzhen)</li>
 <li>[Sep 2023] CARES Copilot, Neuro-Open AI Platform, Seminar at Deptartment of Surgery, CUHK, Invited by Dr. <a href="https://www.surgery.cuhk.edu.hk/profile.asp?alias=tmdanny">Danny T.M. Chan</a></li>
 <li>[Jul 2023] Intelligent Surgical Video Understanding with Mulitmodal Concepts, The 3rd Guangdong-Hong Kong-Macau Neurosurgery Summit</li>
 </ul>
