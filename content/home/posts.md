@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[Dec 2024] Our paper <span2><b>MedCon</b></span2> and <span2><b>FedDCM</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><be>
+
 [Nov 2024] <span2>I moved to <b>Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b></span2><br>
 
 [Oct 2024] Our <span2><b>MICCAI 2024 Workshop</b></span2> on <span2><b>Embodied AI and Robotics for HealTHcare (EARTH)</b></span2> was held successfully at Marrakesh, Morocco. Great honor to have Prof. <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=de">Nassir Navab</a> and Prof. <a href="https://camma.unistra.fr/npadoy/">Nicolas Padoy</a> as keynote speakers<br>
