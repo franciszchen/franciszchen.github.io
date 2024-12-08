@@ -65,9 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[Dec 2024] Our paper <span2><b>MedCon</b></span2> and <span2><b>FedDCM</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><be>
+[Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><be>
 
-[Nov 2024] <span2>I moved to <b>Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b></span2><br>
+[Nov 2024] I moved to <span2><b>Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b></span2><br>
 
 [Oct 2024] Our <span2><b>MICCAI 2024 Workshop</b></span2> on <span2><b>Embodied AI and Robotics for HealTHcare (EARTH)</b></span2> was held successfully at Marrakesh, Morocco. Great honor to have Prof. <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=de">Nassir Navab</a> and Prof. <a href="https://camma.unistra.fr/npadoy/">Nicolas Padoy</a> as keynote speakers<br>
 
@@ -89,7 +89,7 @@ subtitle = ""
 
 [May 2024] Our paper "<span2><b>MOST</b></span2>: Multi-Formation Soft Masking for Semi-Supervised Medical Image Segmentation" has been <span2><b>early accepted</b></span2> by <span2><b>MICCAI 2024</b></span2><br>
 
-[Dec 2023] <span2>I honorably won <b>Hong Kong Young Scientist Award 2023</b>, as the only awardee in the engineering field of Hong Kong</span2><br>
+[Dec 2023] I honorably won <span2><b>Hong Kong Young Scientist Award 2023</b>, as the only awardee in the engineering field of Hong Kong</span2><br>
 
 [Oct 2023] Our paper <span2><b>STAR-Net</b></span2>: "Surgical Temporal Action-aware Network with Sequence Regularization for Phase Recognition" has been accepted by <span2><b>BIBM 2023</b></span2><br>
 
@@ -111,7 +111,7 @@ subtitle = ""
 
 [Nov 2022] Our paper "<span2><b>FedDM</b></span2>: Federated Weakly Supervised Segmentation via Annotation Calibration and Gradient De-conflicting" has been accepted by <span2><b>IEEE Transactions on Medical Imaging</b></span2> <br>
 
-[Oct 2022] <span2>I joined <b>CAIR, HKISI-CAS as an Assistant Professor</b></span2><br>
+[Oct 2022] I joined <span2><b>CAIR, HKISI-CAS as an Assistant Professor</b></span2><br>
 
 [Sep 2022] Our paper "Discrepancy and Gradient-guided Multi-Modal Knowledge Distillation for Pathological Glioma Grading" won <span2><b>MICCAI Society Young Scientist Award 2022</b></span2><br>
 
@@ -127,7 +127,7 @@ subtitle = ""
 
 [Feb 2022] Our paper "Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation" has been accepted by <span2><b>Medical Image Analysis</b></span2> <br>
 
-[Jan 2022] <span2>I passed the <b>Ph.D. oral defense</b></span2> <br>
+[Jan 2022] I passed the <span2><b>Ph.D. oral defense</b></span2> <br>
 
 
 <style>
