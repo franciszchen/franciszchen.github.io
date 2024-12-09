@@ -44,6 +44,7 @@ header:
 <li>IEEE Journal of Biomedical and Health Informatics (JBHI)</li> 
 <li>IEEE Open Journal of Engineering in Medicine and Biology</li> 
 <li>Artificial Intelligence in Medicine</li> 
+<li>Pattern Recognition</li>
 <li>Neural Networks</li>
 </ul>
 
