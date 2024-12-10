@@ -59,7 +59,7 @@ Besides the diganosis and surgery, our research is exploring on medical foundati
 <li><b>[NeurIPS'24]</b> Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM [<a href="https://openreview.net/forum?id=vJSNsSFO95">Paper</a>] [<a href="https://a-sa-m.github.io/">Code</a>]</li>
 <li><b>[JBHI'24]</b> Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning [<a href="https://ieeexplore.ieee.org/abstract/document/10488705">Paper</a>] [<a href="https://github.com/helenypzhang/UMD">Code</a>]</li>
 <li><b>[MICCAI'24]</b> EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy [<a href="https://arxiv.org/pdf/2406.13705">Paper</a>] [<a href="https://github.com/longbai1006/EndoUIC">Code</a>]</li>
-<li><b>[MICCAI'24]</b> Endora: Video Generation Models as Endoscopy Simulators [<a href="https://arxiv.org/pdf/2403.11050">Paper</a>] [<a href="https://github.com/CUHK-AIM-Group/Endora">Code</a>]</li>
+<li><b>[AAAI'25]</b> U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation [<a href="https://arxiv.org/abs/2406.02918">Paper</a>] [<a href="https://github.com/CUHK-AIM-Group/U-KAN">Code</a>]</li>
 <li>More research coming soon ...</li>
 </ul>
 <img border="0" src="research-4-foundation.jpg" width="800" height="400">
