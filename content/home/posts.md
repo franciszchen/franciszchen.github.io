@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[Dec 2024] Our papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2024</b></span2><be>
+
 [Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><be>
 
 [Nov 2024] I moved to <span2><b>Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b></span2><br>
