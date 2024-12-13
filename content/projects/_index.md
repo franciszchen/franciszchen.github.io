@@ -13,7 +13,7 @@ header:
 
 <h2><b>Human Healthcare Pipeline</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-The research aligns with <span2><b>human healthcare pipeline</b></span2>, including the clinical diagnosis, surgery intervention and medical foundation models. With the multimodal medical data from patient examinations, our research can assist clinicans with diagnosis and assist surgeons with surgery. In particular, our research on multimodal medical foundation models can further support the entire healthcare pipeline.
+The research aligns with <span2><b>human healthcare pipeline</b></span2>, including the clinical diagnosis, surgery intervention and medical foundation models. With the multimodal medical data from patient examinations, our research can assist clinicians with diagnosis and assist surgeons with surgery. In particular, our research on multimodal medical foundation models can further support the entire healthcare pipeline.
 </p>
 <img border="0" src="research-1-pipeline.jpg" width="1200" height="600">
 <hr />
@@ -35,7 +35,7 @@ Our research targets at the multimodal clinical diagnosis through AI training pi
 
 <h2><b>Surgery Intervention Assistance</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-We have developed a <span2><b>surgeon-centric Surgery Copilot system</b></span2> to provide comprehensive assistance throughout the preoperative, intraoperative and postoperative processes. By understanding the surgeon's intention through voice commands, our Surgery Copilot system can automatically execute of various advanced surgical understanding algorithms, and further support surgical pipeline automation and embodied ultrasound scanning. The research enhances precision, efficiency, and safety in surgical intervention.
+We have developed a <span2><b>surgeon-centric Surgery Copilot system</b></span2> to provide comprehensive assistance throughout the preoperative, intraoperative and postoperative processes. By understanding the surgeon's intention through voice commands, our Surgery Copilot system can automatically execute various advanced surgical understanding algorithms, and further support surgical pipeline automation and embodied ultrasound scanning. The research enhances precision, efficiency, and safety in surgical intervention.
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
@@ -52,7 +52,7 @@ We have developed a <span2><b>surgeon-centric Surgery Copilot system</b></span2>
 
 <h2><b>Medical Foundation Models</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-Besides the diganosis and surgery, our research is exploring on medical foundation models to support more stages in human healthcare pipeline. Namely, these stages include <span2><b>triage</b></span2>, <span2><b>imaging</b></span2>, <span2><b>diagnosis</b></span2>, <span2><b>treatment</b></span2>, <span2><b>surgery</b></span2>, and <span2><b>rehabilitation</b></span2>, covering the entire spectrum of patient care. By driving the evolution of medical foundation models across these stages, our goal is to create a more seamless, efficient, and patient-centric healthcare system.
+Beyond the diagnosis and surgery, our research is exploring on medical foundation models to support more stages in human healthcare pipeline. Namely, these stages include <span2><b>triage</b></span2>, <span2><b>imaging</b></span2>, <span2><b>diagnosis</b></span2>, <span2><b>treatment</b></span2>, <span2><b>surgery</b></span2>, and <span2><b>rehabilitation</b></span2>, covering the entire spectrum of patient care. By driving the evolution of medical foundation models across these stages, our goal is to create a more seamless, efficient, and patient-centric healthcare system.
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
