@@ -31,6 +31,7 @@ header:
 <br>
 <h2><b>Regular Journal Reviewers </b></h2>
 <ul>
+<li>npj Digital Medicine</li> 
 <li>Medical Image Analysis (MedIA)</li> 
 <li>IEEE Transactions on Medical Imaging (TMI)</li>
 <li>IEEE Transactions on Image Processing (TIP)</li> 
