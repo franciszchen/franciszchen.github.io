@@ -67,13 +67,13 @@ subtitle = ""
 +++
 
 
-[Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korea<be>
+[Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korea<br>
 
-[Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><be>
+[Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><br>
 
-[Dec 2024] Our papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><be>
+[Dec 2024] Our papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><br>
 
-[Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><be>
+[Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><br>
 
 [Nov 2024] I moved to <span2><b>Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b></span2><br>
 
@@ -96,6 +96,8 @@ subtitle = ""
 [May 2024] Our <span2><b>ICRA 2024 Workshop</b></span2> on <span2><b>C4 Surgical Robotic Systems in the Embodied AI Era (C4SR+)</b></span2> was held successfully at Yokohama, Japan<br>
 
 [May 2024] Our paper "<span2><b>MOST</b></span2>: Multi-Formation Soft Masking for Semi-Supervised Medical Image Segmentation" has been <span2><b>early accepted</b></span2> by <span2><b>MICCAI 2024</b></span2><br>
+
+[Jan 2024] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2024/en/">MICCAI 2024</a> in Marrakesh, Morocco<br>
 
 [Dec 2023] I honorably won <span2><b>Hong Kong Young Scientist Award 2023</b>, as the only awardee in the engineering field of Hong Kong</span2><br>
 
