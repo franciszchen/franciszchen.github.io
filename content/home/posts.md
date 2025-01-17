@@ -107,7 +107,7 @@ subtitle = ""
 
 [Sep 2023] Our paper <span2><b>FedGP</b></span2>: "Medical Federated Learning with Joint Graph Purification for Noisy Label Learning" has been accepted by <span2><b>Medical Image Analysis</b></span2><br>	
 
-[Aug 2024] Our <span2><b>IJCAI 2023 Symposium</b></span2> on <span2><b>Medical Large Models</b></span2> was held successfully at Macao<br>
+[Aug 2023] Our <span2><b>IJCAI 2023 Symposium</b></span2> on <span2><b>Medical Large Models</b></span2> was held successfully at Macao<br>
 
 [Jul 2023] Our paper <span2><b>GFBS</b></span2>: "Generalized Gradient Flow Based Saliency for Pruning Deep Convolutional Neural Networks" has been accepted by <span2><b>International Journal of Computer Vision</b></span2><br>
 
