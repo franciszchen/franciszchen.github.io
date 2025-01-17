@@ -66,6 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
+
+[Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korean<be>
+
 [Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><be>
 
 [Dec 2024] Our papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><be>
