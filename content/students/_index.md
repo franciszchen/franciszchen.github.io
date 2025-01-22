@@ -22,6 +22,7 @@ header:
 <h2><b>Mentorship</b></h2>
 <ul>
 <li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
+<li>served as the Mentor in <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2></li>
 <li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
 </ul>
 
