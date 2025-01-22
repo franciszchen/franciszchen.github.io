@@ -66,8 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
+[Jan 2025] Invited to serve as <span2><b>Mentor</b></span2> of <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2><br>
 
-[Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korea<br>
+[Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korea<be>
 
 [Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><br>
 
