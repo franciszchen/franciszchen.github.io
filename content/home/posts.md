@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Jan 2025] Three papers <span2><b>SurgPLAN++</b></span2>, <span2><b>Polyp-Gen</b></span2> and <span2><b>Endo-2DTAM</b></span2> have been accepted by <span2><b>​ICRA 2025</b></span2><br>
+
 [Jan 2025] Invited to serve as <span2><b>Mentor</b></span2> of <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2><br>
 
 [Jan 2025] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2025/en/default.asp">MICCAI 2025</a> in Daejeon, South Korea<be>
