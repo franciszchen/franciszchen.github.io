@@ -47,7 +47,7 @@ header:
 
 <li><b>[ICRA'25]</b> <b>Zhen Chen</b>*, Xingjian Luo*, Jinlin Wu, Long Bai, Zhen Lei, Hongliang Ren, Sebastien Ourselin, Hongbin Liu. "SurgPLAN++: Universal Surgical Phase Localization Network for Online and Offline Inference", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
 <li><b>[ICRA'25]</b> Shengyuan Liu*, <b>Zhen Chen</b>*, Qiushi Yang, Weihao Yu, Di Dong, Jiancong Hu, Yixuan Yuan. "Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
-<li><b>[ICRA'25]</b> Yiming Huang, Beilei Cui, Long Bai, <b>Zhen Chen</b>, Jinlin Wu, Zhen Li, Hongbin Liu, Hongliang Ren. "Advancing Dense Endoscopic Reconstruction with Gaussian
+<li><b>[ICRA'25]</b> Yiming Huang, Beilei Cui, Long Bai, <b>Zhen Chen</b>, Jinlin Wu, Zhen Lei, Hongbin Liu, Hongliang Ren. "Advancing Dense Endoscopic Reconstruction with Gaussian
 Splatting-driven Surface Normal-aware Tracking and Mapping", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
 
 
