@@ -74,7 +74,7 @@ subtitle = ""
 
 [Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><br>
 
-[Dec 2024] Our papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><br>
+[Dec 2024] Two papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><br>
 
 [Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><br>
 
@@ -82,11 +82,11 @@ subtitle = ""
 
 [Oct 2024] Our <span2><b>MICCAI 2024 Workshop</b></span2> on <span2><b>Embodied AI and Robotics for HealTHcare (EARTH)</b></span2> was held successfully at Marrakesh, Morocco. Great honor to have Prof. <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=de">Nassir Navab</a> and Prof. <a href="https://camma.unistra.fr/npadoy/">Nicolas Padoy</a> as keynote speakers<br>
 
-[Oct 2024] Our paper <span2><b>Surgery Copilot</b></span2> and <span2><b>FedDCM</b></span2> have been accepted by <span2><b>IEEE Big Data 2024</b></span2><br>
+[Oct 2024] Two papers <span2><b>Surgery Copilot</b></span2> and <span2><b>FedDCM</b></span2> have been accepted by <span2><b>IEEE Big Data 2024</b></span2><br>
 
 [Sep 2024] Our paper "<span2><b>Flaws can be Applause</b></span2>: Unleashing Potential of Segmenting Ambiguous Objects in SAM" has been accepted by <span2><b>NeurIPS 2024</b></span2><br>
 
-[Jun 2024] Our paper <span2><b>Surgical Function-calling</b></span2> and <span2><b>Focus on Focus</b></span2> have been accepted by <span2><b>BIBM 2024</b></span2><br>
+[Jun 2024] Two papers <span2><b>Surgical Function-calling</b></span2> and <span2><b>Focus on Focus</b></span2> have been accepted by <span2><b>BIBM 2024</b></span2><br>
 
 [Jun 2024] Our paper "<span2><b>ASI-Seg</b></span2>: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding" has been accepted by <span2><b>IROS 2024</b></span2> as <span2><b>Oral</b></span2><br>
 
