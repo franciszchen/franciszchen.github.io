@@ -11,6 +11,8 @@ header:
 <br>
 <h2><b>Invited Talks</b></h2>
 <ul>
+<li>[Mar 2025] Advancing Surgical Intervention with LLMs and Multimodal Understanding, Seminar at Yale University</li>
+<li>[Feb 2025] De-Identification for Medical Imaging, Seminar at Yale University</li>
 <li>[Nov 2024] Multimodal Large Language Model and Its Healthcare Application, Seminar at University of Hawaii at Manoa</li>
 <li>[Feb 2024] CARES Copilot, A Multi-modality Surgery AI Assistant, Seminar at Deptartment of Surgery, CUHK, Invited by Dr. <a href="https://www.surgery.cuhk.edu.hk/profile.asp?alias=peterwoo">Peter Y.M. Woo</a></li>
 <li>[Dec 2023] Towards Intelligent Medical Image Analysis, Seminar at Harbin Institute of Technology (Shenzhen)</li>
