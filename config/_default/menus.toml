@@ -46,10 +46,10 @@
   url = "students/"
   weight = 70
 
-[[main]]
-  name = "Misc"
-  url = "mics/"
-  weight = 80
+# [[main]]
+#   name = "Misc"
+#   url = "mics/"
+#   weight = 80
 
 
 # [[main]]
