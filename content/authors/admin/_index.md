@@ -85,7 +85,9 @@ I'm a <span2><b>Senior Postdoctoral Associate</b></span2> in the Department of B
 My research interests focus on <span2><b>AI for Healthcare</b></span2>. The research aligns with the human healthcare pipeline, including multimodal clinical diagnosis, surgery intervention, and medical foundation models to support the intelligent healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <span2><b>Hong Kong Young Scientist Award 2023</b></span2>, as the only winner in the engineering field of Hong Kong.
 </p>
 
+<p style="text-align:justify;text-justify:inter-ideograph;">
 <span1><b>I am currently on the academic job market for faculty positions. Please feel free to contact me regarding opportunities.</b></span1>
+</p>
 
 <style>
 span2 {
