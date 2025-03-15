@@ -86,7 +86,7 @@ My research interests focus on <span2><b>AI for Healthcare</b></span2>. The rese
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-<span1><b>I am currently on the academic job market for faculty positions. Please feel free to contact me regarding opportunities.</b></span1>
+<span1><b>I am currently on the academic job market for faculty position. Please feel free to contact me regarding opportunities.</b></span1>
 </p>
 
 <style>
