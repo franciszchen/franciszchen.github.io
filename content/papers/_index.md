@@ -7,6 +7,15 @@ header:
   caption: ""
   image: ""
 ---
+
+<br>
+<h2><b>Editorship</b></h2>
+<ol>
+
+<li>Emre Celebi, Mauricio Reyes, <b>Zhen Chen</b>, Xiaoxiao Li. "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 Workshops", ISIC 2024, iMIMIC 2024, EARTH 2024, DeCaF 2024, Held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 6–10, 2024. [<a href="https://link.springer.com/book/9783031776090">Proceedings</a>]</li>
+</ol>
+
+
 <br>
 <h2><b>Journal Papers</b></h2>
 <ol>
@@ -110,12 +119,5 @@ Autonomous Ultrasound Scanning", IEEE International Conference on Robotics and A
 </ol>
 
 
-
-<br>
-<h2><b>Editorship</b></h2>
-<ol>
-
-<li>Emre Celebi, Mauricio Reyes, <b>Zhen Chen</b>, Xiaoxiao Li. "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 Workshops", ISIC 2024, iMIMIC 2024, EARTH 2024, DeCaF 2024, Held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 6–10, 2024. [<a href="https://link.springer.com/book/9783031776090">Proceedings</a>]</li>
-</ol>
 
 <style> span2 { color: #085DB3; } </style>
