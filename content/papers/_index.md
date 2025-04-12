@@ -20,7 +20,7 @@ header:
 <h2><b>Journal Papers</b></h2>
 <ol>
 
-
+<li><b>[MedIA'25]</b> <b>Zhen Chen</b>*, Qing Xu*, Xinyu Liu, Yixuan Yuan. "UN-SAM: Domain-Adaptive Self-Prompt Segmentation for Universal Nuclei Images", Medical Image Analysis, 2025. 
 <li><b>[CBM'25]</b> Li Pan, Yupei Zhang, Qiushi Yang, Tan Li, <b>Zhen Chen<sup>&#9993</sup></b>. "Long-tailed Medical Diagnosis with Relation-aware Representation Learning and Iterative Classifier Calibration", Computers in Biology and Medicine, 2025. [<a href="https://ieeexplore.ieee.org/abstract/document/10488705">Paper</a>] [<a href="https://github.com/helenypzhang/UMD">Code</a>]</li>
 <li><b>[IJCARS'25]</b> Yuhao Zhai*, <b>Zhen Chen</b>*, Xingjian Luo*, Zhi Zheng, Haiqiao Zhang, Xi Wang, Xiaosheng Yan, Xiaoye Liu, Jie Yin, Jinqiao Wang, Jun Zhang. "Generation of Surgical Reports for Lymph Node Dissection During Laparoscopic Gastric Cancer Surgery Based on Artificial Intelligence", International Journal of Computer Assisted Radiology and Surgery, 2025.</li>
 <li><b>[JBHI'24]</b> Yupei Zhang, Li Pan, Qiushi Yang, Tan Li, <b>Zhen Chen<sup>&#9993</sup></b>. "Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning", IEEE Journal of Biomedical and Health Informatics, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10488705">Paper</a>] [<a href="https://github.com/helenypzhang/UMD">Code</a>]</li>
