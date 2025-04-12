@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Apr 2025] One paper <span2><b>UN-SAM</b></span2> has been accepted by <span2><b>Medical Image Analysis</b></span2><be>
+
 [Jan 2025] Three papers <span2><b>SurgPLAN++</b></span2>, <span2><b>Polyp-Gen</b></span2> and <span2><b>Endo-2DTAM</b></span2> have been accepted by <span2><b>​ICRA 2025</b></span2><be>
 
 [Jan 2025] Our paper <span2><b>Long-tailed Medical Diagnosis</b></span2> has been accepted by <span2><b>Computers in Biology and Medicine</b></span2><br>
