@@ -111,6 +111,8 @@ Splatting-driven Surface Normal-aware Tracking and Mapping", IEEE Conference on 
 <h2><b>Workshop Papers</b></h2>
 <ol>
 <li><b>[ICLR'25 FM-Wild]</b> Guankun Wang, Long Bai, Wan Jun Nah, Jie Wang, Zhaoxi Zhang, <b>Zhen Chen</b>, Jinlin Wu, Mobarakol Islam, Hongbin Liu, Hongliang Ren. "Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery", International Conference on Learning Representations Workshop on Foundation Models in the Wild, Singapore, 2025. [<a href="https://arxiv.org/pdf/2405.10948">Paper</a>] [<a href="https://github.com/gkw0010/Surgical-LVLM">Code</a>]</li>
+
+<li><b>[ICRA'25 RAMI]</b> Beilei Cui, Long Bai, Mobarakol Islam, An Wang, Zhiqi Ma, Yiming Huang, Feng Li, <b>Zhen Chen</b>, Zhongliang Jiang, Nassir Navab and Hongliang Ren. "Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras", IEEE International Conference on Robotics and Automation 3rd Workshop on Robot-Assisted Medical Imaging, Atlanta, USA, 2025. </li>
   
 <li><b>[MICCAI'24 EARTH]</b> Wenwu Guo, Jinlin Wu, <b>Zhen Chen<sup>&#9993</sup></b>, Qingxiang Zhao, Miao Xu, Hongbin Liu, Zhen Lei. "SurgTrack: 3D Tracking of Real-world Surgical Instruments", International Conference on Medical Image Computing and Computer Assisted Interventions Workshop on Embodied AI and Robotics for Healthcare, Marrakesh, Moroccan, 2024. [<a href="https://arxiv.org/pdf/2409.02598">Paper</a>] [<a href="https://github.com/Wahaha-Code/SugicalTrack">Code</a>]</li>
 <li><b>[ICRA'24 C4SR]</b> Huan Xu, Jinlin Wu, Guanglin Cao, Zhen Lei, <b>Zhen Chen<sup>&#9993</sup></b>, Hongbin Liu. "Enhancing Surgical Robots with Embodied Intelligence for
