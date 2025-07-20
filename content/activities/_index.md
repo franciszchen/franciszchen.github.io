@@ -35,6 +35,7 @@ header:
 <li>npj Digital Medicine</li> 
 <li>Medical Image Analysis (MedIA)</li> 
 <li>IEEE Transactions on Medical Imaging (TMI)</li>
+<li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
 <li>IEEE Transactions on Image Processing (TIP)</li> 
 <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 <li>International Journal of Computer Vision (IJCV)</li> 
