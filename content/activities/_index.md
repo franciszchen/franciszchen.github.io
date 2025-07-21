@@ -23,6 +23,7 @@ header:
 <li><span2><b>Chair</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
 <li><span2><b>Chair</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
 <li><span2><b>Chair</b></span2> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
+<li>TPC of The AAAI Conference on Artificial Intelligence (AAAI 2026)</li> 
 <li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2025&2024&2023)</li> 
 <li>TPC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025&2024)</li> 
 <li>TPC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2023&2022)</li>
@@ -60,6 +61,7 @@ header:
 <li>IEEE International Conference on Computer Vision (ICCV)</li> 
 <li>The European Conference on Computer Vision (ECCV)</li> 
 <li>The Asian Conference on Computer Vision (ACCV)</li> 
+<li>The AAAI Conference on Artificial Intelligence (AAAI)</li>
 <li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
 <li>IEEE International Conference on Robotics and Automation (ICRA)</li> 
 <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</li> 
