@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Jun 2025] Two papers <span2><b>Co-Seg</b></span2> and <span2><b>PRO-VPT</b></span2> have been accepted by <span2><b>MICCAI 2025</b></span2> and <span2><b>ICCV 2025</b></span2>. Congrats to Qing and co-authors! <be>
+
 [Apr 2025] Our paper <span2><b>UN-SAM</b></span2> has been accepted by <span2><b>Medical Image Analysis</b></span2><be>
 
 [Jan 2025] Three papers <span2><b>SurgPLAN++</b></span2>, <span2><b>Polyp-Gen</b></span2> and <span2><b>Endo-2DTAM</b></span2> have been accepted by <span2><b>​ICRA 2025</b></span2><be>
