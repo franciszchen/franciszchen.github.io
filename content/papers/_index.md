@@ -56,7 +56,10 @@ header:
 <br>
 <h2><b>Conference Papers</b></h2> <!-- (The underlined first authors are under my supervision) -->
 <ol>
+<li><b>[MICCAI'25]</b> Qing Xu, Wenting Duan, <b>Zhen Chen<sup>&#9993</sup></b>. "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation", Medical Image Computing and Computer Assisted Intervention, Daejeon, South Korea, 2025. </li>
 
+<li><b>[ICCV'25]</b> Chikai Shang, Mengke Li, Yiqun Zhang, <b>Zhen Chen</b>, Jinlin Wu, Fangqing Gu, Yang Lu, Yiu-ming Cheung. "Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning", International Conference on Computer Vision, Honolulu, USA, 2025. </li>
+  
 <li><b>[ICRA'25]</b> <b>Zhen Chen</b>*, Xingjian Luo*, Jinlin Wu, Long Bai, Zhen Lei, Hongliang Ren, Sebastien Ourselin, Hongbin Liu. "SurgPLAN++: Universal Surgical Phase Localization Network for Online and Offline Inference", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
 <li><b>[ICRA'25]</b> Shengyuan Liu*, <b>Zhen Chen</b>*, Qiushi Yang, Weihao Yu, Di Dong, Jiancong Hu, Yixuan Yuan. "Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
 <li><b>[ICRA'25]</b> Yiming Huang, Beilei Cui, Long Bai, <b>Zhen Chen</b>, Jinlin Wu, Zhen Lei, Hongbin Liu, Hongliang Ren. "Advancing Dense Endoscopic Reconstruction with Gaussian
