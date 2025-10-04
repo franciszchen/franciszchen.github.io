@@ -44,6 +44,7 @@ header:
 <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li> 
 <li>IEEE Transactions on Industrial Informatics (TII)</li> 
 <li>IEEE Transactions on Computational Imaging (TCI)</li> 
+<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li> 
 <li>IEEE Transactions on Audio, Speech and Language Processing (TASL)</li> 
 <li>IEEE Transactions on Dependable and Secure Computing (TDSC)</li>
 <li>IEEE Journal of Biomedical and Health Informatics (JBHI)</li> 
