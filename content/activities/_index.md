@@ -49,6 +49,7 @@ header:
 <li>IEEE Transactions on Dependable and Secure Computing (TDSC)</li>
 <li>IEEE Journal of Biomedical and Health Informatics (JBHI)</li> 
 <li>IEEE Open Journal of Engineering in Medicine and Biology</li> 
+<li>Biomedical Signal Processing and Control</li> 
 <li>Artificial Intelligence in Medicine</li> 
 <li>Pattern Recognition</li>
 <li>Neural Networks</li>
