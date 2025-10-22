@@ -11,6 +11,7 @@ header:
 <br>
 <h2><b>Invited Talks</b></h2>
 <ul>
+<li>[OCT 2025] From Compound Figures to Composite Understanding, Seminar at Yale University</li>
 <li>[Mar 2025] Advancing Surgical Intervention with LLMs and Multimodal Understanding, Seminar at Yale University</li>
 <li>[Feb 2025] De-Identification for Medical Imaging, Seminar at Yale University</li>
 <li>[Nov 2024] Multimodal Large Language Model and Its Healthcare Application, Seminar at University of Hawaii at Manoa</li>
