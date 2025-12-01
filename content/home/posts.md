@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[Nov 2025] Our paper <span2><b>Light-UNETR</b></span2> has been accepted by <span2><b>TPAMI 2025</b></span2>. Congrats to Xinyu! <be>
 
 [Jun 2025] Two papers <span2><b>Co-Seg</b></span2> and <span2><b>PRO-VPT</b></span2> have been accepted by <span2><b>MICCAI 2025</b></span2> and <span2><b>ICCV 2025</b></span2>. Congrats to Qing and co-authors! <be>
 
