@@ -54,6 +54,7 @@ header:
 <li>Artificial Intelligence in Medicine</li> 
 <li>Computer Assisted Surgery</li> 
 <li>Cyborg and Bionic Systems</li> 
+<li>Information Fusion</li>
 <li>Pattern Recognition</li>
 <li>Neural Networks</li>
 </ul>
