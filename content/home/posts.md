@@ -66,7 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-[Dec 2025] Our papers <span2><b>Co-Seg++</b></span2> and <span2><b>UniUltra</b></span2> have been accepted by <span2><b>TMI</b></span2> and <span2><b>TMM</b></span2>. Congrats to Qing and Yue! <be>
+[Dec 2025] Two papers <span2><b>Co-Seg++</b></span2> and <span2><b>UniUltra</b></span2> have been accepted by <span2><b>TMI</b></span2> and <span2><b>TMM</b></span2>. Congrats to Qing and Yue! <be>
+
+[Dec 2025] Honored to receive <span2><b>IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer Award</b></span2> for the third consecutive year <be>
 
 [Nov 2025] Our paper <span2><b>Light-UNETR</b></span2> has been accepted by <span2><b>TPAMI</b></span2>. Congrats to Xinyu! <be>
 
