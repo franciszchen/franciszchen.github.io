@@ -48,7 +48,7 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:zhen.chen@yale.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:zchen.francis@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oVG2zEkAAAAJ&hl=en
@@ -102,4 +102,4 @@ color: red;
 </style>
 
 
-**Email:** <span2>zhen.chen@yale.edu</span2>
+**Email:** <span2>zchen.francis@gmail.com</span2>
