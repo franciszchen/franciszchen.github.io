@@ -12,10 +12,10 @@ header:
 
 <br>
 <p>
-We are actively seeking self-motivated <span2><b>Ph.D. students, Research Assistants, and Visiting Students</b></span2> to join the <span2><b>AI for Healthcare Lab</b></span2> at PolyU DSAI.
+We are actively seeking self-motivated <span2><b>Ph.D. Students, Research Assistants, and Visiting Students</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
 </p>
 <p>
-Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revolution in healthcare. We bridge the gap between fundamental AI innovation and clinical reality, aiming to develop <span2><b>Generalizable, Agentic, and Multimodal AI systems</b></span2> that can perceive, reason, and act in complex medical environments.
+Our lab stands at the forefront of the <b>Generative AI revolution in healthcare</b>. We bridge the gap between fundamental AI innovation and clinical reality, aiming to develop <span2><b>Generalizable, Agentic, and Multimodal AI systems</b></span2> that can perceive, reason, and act in complex medical environments.
 </p>
 <p>
 👉 <b>Our latest works and publications can be found in <a href="https://scholar.google.com/citations?user=oVG2zEkAAAAJ&hl=en">Google Scholar</a>.</b>
@@ -24,18 +24,18 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <br>
 <h2><b>🔬 Research Pillars</b></h2>
 <ul>
-<li><span2><b>Medical Foundation Models:</b></span2> Developing multimodal LLMs integrating medical imaging, surgical video, EHR, and biomedical literature for holistic clinical reasoning.</li>
-<li><span2><b>Agentic AI for Healthcare:</b></span2> Building clinical agents and embodied copilots capable of autonomous planning and video-language-action learning.</li>
-<li><span2><b>Translational AI:</b></span2> Moving beyond algorithms to build deployable prototypes and conducting rigorous clinical validation in real-world settings.</li>
+<li><b>Medical Foundation Models:</b> Developing multimodal LLMs integrating medical imaging, surgical video, EHR, and biomedical literature for holistic clinical reasoning.</li>
+<li><b>Agentic AI for Healthcare:</b> Building clinical agents and embodied copilots capable of autonomous planning and video-language-action learning.</li>
+<li><b>Translational AI:</b> Moving beyond algorithms to build deployable prototypes and conducting rigorous clinical validation in real-world settings.</li>
 </ul>
 
 <br>
 <h2><b>🚀 Why Join Us?</b></h2>
 <ul>
-<li><span2><b>Frontline Research:</b></span2> Work on cutting-edge topics (e.g., <span2><b>LLM Agents, Vision-Language Models</b></span2>) with a supervisor who has first-hand expertise in building foundation models.</li>
-<li><span2><b>Proven Mentorship:</b></span2> Our philosophy is to help every student reach their full potential, providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top institutions such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
-<li><span2><b>Clinical Resources:</b></span2> Benefit from long-term collaborations with clinicians in <span2><b>USA, Hong Kong and Mainland hospitals</b></span2>, with access to high-quality medical data and expert feedback.</li>
-<li><span2><b>Solid Support:</b></span2> We provide ample GPU resources and fully support fellowship and scholarship applications (e.g., HKPFS, PPPFS, PRPgS).</li>
+<li><b>Frontline Research:</b> Work on cutting-edge topics (e.g., <b>LLM Agents, Vision-Language Models</b>) with a supervisor who has first-hand expertise in building foundation models.</li>
+<li><b>Proven Mentorship:</b> Our philosophy is to help every student reach their full potential, by providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top institutions such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
+<li><b>Clinical Resources:</b> Benefit from long-term collaborations with clinicians in <span2><b>USA, Hong Kong and Mainland hospitals</b></span2>, with access to high-quality medical data and expert feedback.</li>
+<li><b>Solid Support:</b> We provide ample GPU resources and international collaboration opportunities, and fully support fellowship and scholarship applications (e.g., HKPFS, PPPFS, PRPgS).</li>
 </ul>
 
 <br>
@@ -50,14 +50,13 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <br>
 <h2><b>📝 How to Apply</b></h2>
 <p>
-Please email <span2><b>zchen.francis@gmail.com</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>.
+Please email <span2><b>zchen.francis@gmail.com</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>. The email requires the attachments to be merged into a single PDF:
 </p>
-<p><span2><b>Required Attachments (Single PDF):</b></span2></p>
 <ul>
 <li><span2><b>CV:</b></span2> Include education, technical stack, and publications.</li>
 <li><span2><b>Transcripts.</b></span2></li>
 <li><span2><b>Research Statement:</b></span2> A brief outline (1-2 pages) of past work, future goals, and interest in our directions.</li>
-<li><span2><b>Representative Work:</b></span2> 1-3 papers, or Github project links.</li>
+<li><span2><b>Representative Work (optional):</b></span2> 1-3 papers, or Github project links.</li>
 </ul>
 
 <br>
