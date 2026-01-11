@@ -10,23 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
-  url: "https://www.yale.edu/"
+- name: The Hong Kong Polytechnic University
+  url: "https://www.polyu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI for Healthcare, Medical Foundation Models, Multimodal Learning, Medical Image Analysis, and Surgery Intervention Assistance.
 
 Interests:
 - AI for Healthcare
-- Smart Healthcare Pipeline
+- Multimodal Learning
 - Medical Foundation Models
-- Multimodal Clinical Analysis
 - Medical Image Diagnosis
 - Surgery Intervention Assistance
+- Agentic AI for Clinical Applications
 
 
 Education:
@@ -78,15 +78,15 @@ user_groups:
 - Visitors
 ---
 <p style="text-align:justify;text-justify:inter-ideograph;">
-I'm a Senior Postdoctoral Associate in the Department of Biomedical Informatics and Data Science at Yale University, working with Prof. <a href="https://medicine.yale.edu/profile/qingyu-chen/">Qingyu Chen</a> and Prof. <a href="https://medicine.yale.edu/profile/hua-xu/">Hua Xu</a>. Prior to that, I worked as an Assistant Professor in Centre for Artificial Intelligence and Robotics, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences from 2022 to 2024. I received the Ph.D. degree in Electrical Engineering, City University of Hong Kong in 2022 and worked as Postdoctoral Fellow, advised by Prof. <a href="https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm">Yixuan Yuan</a>. I received the M.Phil. degree in Information Science, University of Science and Technology of China in 2019, and the B.Eng. degree in Information Engineering, Xi'an Jiaotong University in 2016 with the admission to XJTU-CASIA Automation Elite Class.
+I am a tenure-track Assistant Professor in the <a href="https://www.polyu.edu.hk/dsai/">Department of Data Science and Artificial Intelligence (DSAI)</a> at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University (PolyU)</a>. Before joining PolyU, I was a Postdoctoral Associate in the Department of Biomedical Informatics and Data Science at Yale University, and served as an Assistant Professor at the Centre for Artificial Intelligence and Robotics, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences. Prior to that, I received my Ph.D. degree in Electrical Engineering, City University of Hong Kong in 2022, advised by Prof. <a href="https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm">Yixuan Yuan</a>. I received my M.Phil. degree from University of Science and Technology of China in 2019, and my B.Eng. degree from Xi'an Jiaotong University in 2016 with admission to XJTU-CASIA Automation Elite Class.</p>
+
+
+<p style="text-align:justify;text-justify:inter-ideograph;">
+My research interests focus on the intersection of AI and Healthcare. My work aligns with the human healthcare pipeline, encompassing multimodal clinical diagnosis, surgical intervention, and medical foundation models with the goal of building next-generation healthcare systems. In recognition of the research on AI-assisted diagnosis and surgery, I was awarded the Hong Kong Young Scientist Award 2023, the sole winner in the engineering field that year.
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-My research interests focus on AI for Healthcare. The research aligns with the human healthcare pipeline, including multimodal clinical diagnosis, surgery intervention, and medical foundation models to support the intelligent healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the Hong Kong Young Scientist Award 2023, as the only winner in the engineering field of Hong Kong.
-</p>
-
-<p style="text-align:justify;text-justify:inter-ideograph;">
-<span1><b>I am currently on the academic job market for faculty position. Please feel free to contact me regarding opportunities.</b></span1>
+<span1><b>We are actively looking for passionate PhD, RA, and Intern students to join the team (<a href="https://franciszchen.github.io/opening/">More info</a>).</b></span1>
 </p>
 
 <style>
