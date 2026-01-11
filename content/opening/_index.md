@@ -32,7 +32,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <br>
 <h2><b>🚀 Why Join Us?</b></h2>
 <ul>
-<li><b>Frontline Research:</b> Work on cutting-edge topics (e.g., <b>LLM Agents, Vision-Language Models</b>) with a supervisor who has first-hand expertise in building foundation models.</li>
+<li><b>Frontline Research:</b> Work on cutting-edge topics (e.g., <b>LLM Agents, Vision-Language Models, World Models</b>) with a supervisor who has first-hand expertise in building foundation models.</li>
 <li><b>Proven Mentorship:</b> Our philosophy is to help every student reach their full potential by providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top institutions such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
 <li><b>Clinical Resources:</b> Benefit from long-term collaborations with clinicians in USA, Hong Kong and Mainland hospitals, with access to high-quality medical data and expert feedback.</li>
 <li><b>Solid Support:</b> We provide ample GPU resources and international collaboration opportunities, and fully support fellowship and scholarship applications (e.g., HKPFS, PPPFS, PRPgS).</li>
@@ -42,7 +42,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <h2><b>🎯 Requirements</b></h2>
 <ul>
 <li>BS/MS degree in CS, AI, DS, EE, BME, Math, Automation, or related fields.</li>
-<li>Solid math foundation, proficient in Python/PyTorch, and familiar with modern architectures (e.g., Transformers, Diffusion).</li>
+<li>Solid math foundation, proficient in Python/PyTorch, and familiar with modern network architectures.</li>
 <li>Experience in CV, NLP, or Deep Learning. Prior work on LLMs or Agents is a strong plus.</li>
 <li>A genuine passion for solving healthcare problems and resilience in tackling high-impact questions.</li>
 </ul>
