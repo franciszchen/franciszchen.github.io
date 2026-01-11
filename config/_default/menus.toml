@@ -46,6 +46,13 @@
   url = "students/"
   weight = 70
 
+[[main]]
+  name = "Join Us"
+  url = "opening/"
+  weight = 80
+
+
+
 # [[main]]
 #   name = "Misc"
 #   url = "mics/"
