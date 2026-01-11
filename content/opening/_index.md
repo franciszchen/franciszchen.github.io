@@ -41,7 +41,7 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <br>
 <h2><b>🎯 Requirements</b></h2>
 <ul>
-<li>BS/MS degree in CS, AI, DS, EE, Math, Automation, or related fields.</li>
+<li>BS/MS degree in CS, AI, DS, EE, BME, Math, Automation, or related fields.</li>
 <li>Solid math foundation, proficient in Python/PyTorch, and familiar with modern architectures (e.g., Transformers, Diffusion).</li>
 <li>Experience in CV, NLP, or Deep Learning. Prior work on LLMs or Agents is a strong plus.</li>
 <li>A genuine passion for solving healthcare problems and resilience in tackling high-impact questions.</li>
