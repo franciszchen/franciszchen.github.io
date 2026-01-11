@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Postdoc"
+  title = "Postdoctoral Associate"
   company = "Yale University"
   location = "New Haven, USA"
   date_start = "2024-11-01"
