@@ -33,7 +33,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <h2><b>🚀 Why Join Us?</b></h2>
 <ul>
 <li><b>Frontline Research:</b> Work on cutting-edge topics (e.g., <b>LLM Agents, Vision-Language Models, World Models</b>) with a supervisor who has first-hand expertise in building foundation models.</li>
-<li><b>Proven Mentorship:</b> Our philosophy is to help every student reach their full potential by providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top institutions such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
+<li><b>Proven Mentorship:</b> Our philosophy is to help every student reach their full potential by providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top universities such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
 <li><b>Clinical Resources:</b> Benefit from long-term collaborations with clinicians in USA, Hong Kong and Mainland hospitals, with access to high-quality medical data and expert feedback.</li>
 <li><b>Solid Support:</b> We provide ample GPU resources and international collaboration opportunities, and fully support fellowship and scholarship applications (e.g., HKPFS, PPPFS, PRPgS).</li>
 </ul>
