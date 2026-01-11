@@ -69,5 +69,5 @@ Please email <span2><b>[Your PolyU Email]</b></span2> with the subject: <span2><
 
 <br>
 <p>
-<i>🌍 We are at an era where the next-generation AI will revolutionize healthcare. If you are passionate about building intelligent systems that can <span2><b>"think" like a clinician and "operate" like a surgeon</b></span2>, we invite you to join us!</i>
+🌍 <i>We are at an era where the next-generation AI will revolutionize healthcare. If you are passionate about building intelligent systems that can <span2><b>"think" like a clinician and "operate" like a surgeon</b></span2>, we invite you to join us!</i>
 </p>
