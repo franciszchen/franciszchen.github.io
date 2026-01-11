@@ -35,7 +35,7 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <li><span2><b>Frontline Research:</b></span2> Work on cutting-edge topics (e.g., <span2><b>LLM Agents, Vision-Language Models</b></span2>) with a supervisor who has first-hand expertise in building foundation models.</li>
 <li><span2><b>Proven Mentorship:</b></span2> Our philosophy is to help every student reach their full potential, providing training in independent research for future careers. Previous students under my mentorship have secured Ph.D. positions at top institutions such as <span2><b>Cambridge, Edinburgh, Nottingham, and UIUC</b></span2>.</li>
 <li><span2><b>Clinical Resources:</b></span2> Benefit from long-term collaborations with clinicians in <span2><b>USA, Hong Kong and Mainland hospitals</b></span2>, with access to high-quality medical data and expert feedback.</li>
-<li><span2><b>Solid Support:</b></span2> We provide ample GPU resources and fully support fellowship and scholarship applications (e.g., <span2><b>HKPFS, PPPFS, PRPgS</b></span2>).</li>
+<li><span2><b>Solid Support:</b></span2> We provide ample GPU resources and fully support fellowship and scholarship applications (e.g., HKPFS, PPPFS, PRPgS).</li>
 </ul>
 
 <br>
