@@ -25,7 +25,7 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <h2><b>🔬 Research Pillars</b></h2>
 <ul>
 <li><span2><b>Medical Foundation Models:</b></span2> Developing multimodal LLMs integrating medical imaging, surgical video, EHR, and biomedical literature for holistic clinical reasoning.</li>
-<li><span2><b>Agentic AI for Healthcare:</b></span2> Building clinical agents and embodied copilots capable of autonomous planning and <span2><b>video-language-action learning</b></span2>.</li>
+<li><span2><b>Agentic AI for Healthcare:</b></span2> Building clinical agents and embodied copilots capable of autonomous planning and video-language-action learning.</li>
 <li><span2><b>Translational AI:</b></span2> Moving beyond algorithms to build deployable prototypes and conducting rigorous clinical validation in real-world settings.</li>
 </ul>
 
@@ -41,16 +41,16 @@ Our lab stands at the forefront of the <span2><b>Generative AI</b></span2> revol
 <br>
 <h2><b>🎯 Requirements</b></h2>
 <ul>
-<li><span2><b>Background:</b></span2> BS/MS degree in CS, AI, DS, EE, Math, Automation, or related fields.</li>
-<li><span2><b>Technical Skills:</b></span2> Solid math foundation, proficient in <span2><b>Python/PyTorch</b></span2>, and familiar with modern architectures (e.g., Transformers, Diffusion).</li>
-<li><span2><b>Research Experience:</b></span2> Experience in CV, NLP, or Deep Learning. Prior work on <span2><b>LLMs or Agents</b></span2> is a strong plus.</li>
-<li><span2><b>Mindset:</b></span2> A genuine passion for solving healthcare problems and resilience in tackling high-impact questions.</li>
+<li>BS/MS degree in CS, AI, DS, EE, Math, Automation, or related fields.</li>
+<li>Solid math foundation, proficient in Python/PyTorch, and familiar with modern architectures (e.g., Transformers, Diffusion).</li>
+<li>Experience in CV, NLP, or Deep Learning. Prior work on LLMs or Agents is a strong plus.</li>
+<li>A genuine passion for solving healthcare problems and resilience in tackling high-impact questions.</li>
 </ul>
 
 <br>
 <h2><b>📝 How to Apply</b></h2>
 <p>
-Please email <span2><b>[Your PolyU Email]</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>.
+Please email <span2><b>zchen.francis@gmail.com</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>.
 </p>
 <p><span2><b>Required Attachments (Single PDF):</b></span2></p>
 <ul>
@@ -63,8 +63,8 @@ Please email <span2><b>[Your PolyU Email]</b></span2> with the subject: <span2><
 <br>
 <h2><b>💡 Notes</b></h2>
 <ul>
-<li><span2><b>Response Policy:</b></span2> Please be assured that I personally review every application with care. However, <span2><b>I will only be able to contact shortlisted candidates for interviews due to the high volume of inquiries.</b></span2> I genuinely appreciate your time and interest in our lab, and wish you the very best in your academic journey.</li>
-<li><span2><b>For HKPFS Candidates:</b></span2> Please contact me early (before <span2><b>October</b></span2>) if you have an outstanding academic record.</li>
+<li><b>Response Policy:</b> Please be assured that I personally review every application with care. However, <span2><b>I will only be able to contact shortlisted candidates for interviews due to the high volume of inquiries.</b></span2> I genuinely appreciate your time and interest in our lab, and wish you the very best in your academic journey.</li>
+<li><b>For HKPFS Candidates:</b> Please contact me early (before <span2><b>October</b></span2>) if you have an outstanding academic record.</li>
 </ul>
 
 <br>
