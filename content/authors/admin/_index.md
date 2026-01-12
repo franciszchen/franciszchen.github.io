@@ -48,7 +48,7 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:zchen.francis@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:z.chen@polyu.edu.hk"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oVG2zEkAAAAJ&hl=en
@@ -69,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zchen.francis@gmail.com"
+email: "z.chen@polyu.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -102,4 +102,4 @@ color: red;
 </style>
 
 
-**Email:** <span2>zchen.francis@gmail.com</span2>
+**Email:** <span2>z.chen@polyu.edu.hk</span2>
