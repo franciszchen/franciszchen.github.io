@@ -50,7 +50,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <br>
 <h2><b>📝 How to Apply</b></h2>
 <p>
-Please email <span2><b>zchen.francis@gmail.com</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>. The email requires the attachments to be merged into a single PDF:
+Please email <span2><b>z.chen@polyu.edu.hk</b></span2> with the subject: <span2><b>“Application for [Position] – [Your Name] – [Current University]”</b></span2>. The email requires the attachments to be merged into a single PDF:
 </p>
 <ul>
 <li><span2><b>CV:</b></span2> Include education, technical stack, and publications.</li>
