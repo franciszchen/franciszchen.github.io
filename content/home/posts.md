@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Jan 2026] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2026/en/default.asp">MICCAI 2026</a> in Abu Dhabi, United Arab Emirates<be>
+
 [Jan 2026] Two papers <span2><b>FreqDINO</b></span2> and <span2><b>TM-UNet</b></span2> have been accepted by <span2><b>ISBI 2026</b></span2> <be>
 
 [Jan 2026] Join <span2><b>DSAI, PolyU</b></span2> as a tenure-track <span2><b>Assistant Professor</b></span2> <be>
