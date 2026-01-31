@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Feb 2026] We achieved 1st place in the <a href="https://biomedicalimaging.org/2026/">ISBI 2026</a> <span2><b><a href="https://www.codabench.org/competitions/11539/">Foundation Model Challenge for Ultrasound Image Analysis</a></b></span2>. Congrats to the team!<be>
+
 [Jan 2026] Invited to serve as <span2><b>Area Chair</b></span2> of <a href="https://conferences.miccai.org/2026/en/default.asp">MICCAI 2026</a> in Abu Dhabi, United Arab Emirates<be>
 
 [Jan 2026] Two papers <span2><b>FreqDINO</b></span2> and <span2><b>TM-UNet</b></span2> have been accepted by <span2><b>ISBI 2026</b></span2> <be>
