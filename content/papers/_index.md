@@ -63,9 +63,13 @@ header:
 <br>
 <h2><b>Conference Papers</b></h2> <!-- (The underlined first authors are under my supervision) -->
 <ol>
-<li><b>[MICCAI'25]</b> Qing Xu, Wenting Duan, <b>Zhen Chen<sup>&#9993</sup></b>. "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation", Medical Image Computing and Computer Assisted Intervention, Daejeon, South Korea, 2025. </li>
+<li><b>[ISBI'26]</b> Yaxuan Jiao, Qing Xu, Yuxiang Luo, Xiangjian He, <b>Zhen Chen<sup>&#9993</sup></b>, Wenting Duan. "TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation", The IEEE International Symposium on Biomedical Imaging, London, UK, 2026. [<a href="https://arxiv.org/abs/2511.12270">Paper</a>] [<a href="https://github.com/xq141839/TM-UNet">Code</a>] </li> 
 
-<li><b>[ICCV'25]</b> Chikai Shang, Mengke Li, Yiqun Zhang, <b>Zhen Chen</b>, Jinlin Wu, Fangqing Gu, Yang Lu, Yiu-ming Cheung. "Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning", International Conference on Computer Vision, Honolulu, USA, 2025. </li>
+<li><b>[ISBI'26]</b> Yixuan Zhang, Qing Xu, Yue Li, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, <b>Zhen Chen</b>. "FreqDINO: Frequency-Guided Adaptation for Generalized Boundary-Aware Ultrasound Image Segmentation", The IEEE International Symposium on Biomedical Imaging, London, UK, 2026. [<a href="https://arxiv.org/abs/2511.12270">Paper</a>] [<a href="https://github.com/MingLang-FD/FreqDINO">Code</a>] </li> 
+
+<li><b>[MICCAI'25]</b> Qing Xu, Wenting Duan, <b>Zhen Chen<sup>&#9993</sup></b>. "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation", Medical Image Computing and Computer Assisted Intervention, Daejeon, South Korea, 2025. [<a href="https://arxiv.org/abs/2509.06740">Paper</a>] [<a href="https://github.com/xq141839/Co-Seg">Code</a>]</li>
+
+<li><b>[ICCV'25]</b> Chikai Shang, Mengke Li, Yiqun Zhang, <b>Zhen Chen</b>, Jinlin Wu, Fangqing Gu, Yang Lu, Yiu-ming Cheung. "Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning", International Conference on Computer Vision, Honolulu, USA, 2025. [<a href="https://arxiv.org/abs/2503.06901">Paper</a>] [<a href="https://github.com/ckshang/PRO-VPT">Code</a>] </li>
   
 <li><b>[ICRA'25]</b> <b>Zhen Chen</b>*, Xingjian Luo*, Jinlin Wu, Long Bai, Zhen Lei, Hongliang Ren, Sebastien Ourselin, Hongbin Liu. "SurgPLAN++: Universal Surgical Phase Localization Network for Online and Offline Inference", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
 <li><b>[ICRA'25]</b> Shengyuan Liu*, <b>Zhen Chen</b>*, Qiushi Yang, Weihao Yu, Di Dong, Jiancong Hu, Yixuan Yuan. "Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion", IEEE Conference on Robotics and Automation, Atlanta, USA, 2025. [<a href="https://arxiv.org/abs/2409.12467">Paper</a>] [<a href="https://github.com/franciszchen/SurgPLAN-Plus">Code</a>]</li> 
