@@ -72,7 +72,7 @@ subtitle = ""
 
 [Jan 2026] Two papers <span2><b>FreqDINO</b></span2> and <span2><b>TM-UNet</b></span2> have been accepted by <span2><b>ISBI 2026</b></span2> <be>
 
-[Jan 2026] Join <span2><b>DSAI, PolyU</b></span2> as a tenure-track <span2><b>Assistant Professor</b></span2> <be>
+[Jan 2026] Join <span2><b>DSAI, PolyU</b></span2> as a tenure-track Assistant Professor <be>
 
 [Dec 2025] Two papers <span2><b>Co-Seg++</b></span2> and <span2><b>UniUltra</b></span2> have been accepted by <span2><b>TMI</b></span2> and <span2><b>TMM</b></span2>. Congrats to Qing and Yue! <be>
 
