@@ -94,7 +94,7 @@ subtitle = ""
 
 [Dec 2024] Our paper <span2><b>FedRVR</b></span2>: "Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning" has been accepted by <span2><b>​International Journal of Computer Vision</b></span2><br>
 
-[Dec 2024] Two papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> have been accepted by <span2><b>​AAAI 2025</b></span2><br>
+[Dec 2024] Two papers <span2><b>Dual Probabilistic Alignment for UniDAOD</b></span2> and <span2><b>U-KAN</b></span2> (<a href="https://resources.paperdigest.org/2025/09/most-influential-aaai-papers-2025-09-version/"><span2><b>AAAI 2025 Top-1 Most Influential Paper</b></span2></a>]) have been accepted by <span2><b>​AAAI 2025</b></span2><br>
 
 [Dec 2024] Our paper <span2><b>MedCon</b></span2>: "Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation" has been accepted by <span2><b>​IEEE Transactions on Medical Imaging</b></span2><br>
 
