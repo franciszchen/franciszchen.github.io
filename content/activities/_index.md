@@ -20,6 +20,7 @@ header:
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2026</li>
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2025</li>
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2024</li>
+<li><span2><b>Aera Chair</b></span2> of ACM BCB 2026</li>
 <li><span2><b>Chair</b></span2> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
 <li><span2><b>Chair</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
 <li><span2><b>Chair</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
