@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-
+[Mar 2026] Our paper <span2><b>MAP</b></span2> on multi-agent for healthcare has been accepted by <span2><b>npj Health Systems</b></span2> <be>
 
 [Feb 2026] We achieved 1st place in the <a href="https://biomedicalimaging.org/2026/">ISBI 2026</a> <span2><b><a href="https://www.codabench.org/competitions/11539/">Foundation Model Challenge for Ultrasound Image Analysis</a></b></span2>. Congrats to the team!<be>
 
