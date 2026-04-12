@@ -9,9 +9,9 @@ header:
 ---
 <ul>
 
-
-<li> <span2><b>Hong Kong Young Scientist Award 2023</b></span2> (Engineering Science) [<a href="https://drive.google.com/file/d/1MafgsqyKKb2tt4ZOKwDPfii4WpEwPUHq/view?usp=sharing">News</a>]</li>
-<li> <span2><b>MICCAI 2022 Young Scientist Award</b></span2> (2nd author)</li>
+<li> 1st Place in ISBI 2026 Foundation Model Challenge for Ultrasound Image Analysis</li>
+<li> Hong Kong Young Scientist Award 2023 (Engineering Science) [<a href="https://drive.google.com/file/d/1MafgsqyKKb2tt4ZOKwDPfii4WpEwPUHq/view?usp=sharing">News</a>]</li>
+<li> MICCAI 2022 Young Scientist Award (2nd author)</li>
 <li> IEEE TMI Distinguished Reviewer Award 2025&2024&2023</li>
 <li> MICCAI 2021 Student Travel Award</li>
 <li> CityU Institutional Research Tuition Scholarship (RTS)</li>
