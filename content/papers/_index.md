@@ -65,6 +65,7 @@ header:
 <br>
 <h2><b>Conference Papers</b></h2> <!-- (The underlined first authors are under my supervision) -->
 <ol>
+<li><b>[MICCAI'26]</b> Yuxiang Luo*, Qing Xu*, Wenting Duan, <b>Zhen Chen<sup>&#9993</sup></b>. "RASP: Bridging the Long-Tail Gap in Surgical Video Understanding via Retrieval-Augmented Perception", International Conference on Medical Image Computing and Computer Assisted Interventions, Strasbourg, France, 2026. (<span2><b>Early Accept: 9%</b></span2>) </li> 
 <li><b>[CVPR'26]</b> Kun Yuan, Min Woo Sun, <b>Zhen Chen</b>, Alejandro Lozano, Xiangteng He, Shi Li, Nassir Navab, Xiaoxiao Sun, Nicolas Padoy, Serena Yeung-Levy. "From Panel to Pixel: Zoom-In Vision-Language Pretraining from Biomedical Scientific Literature", The IEEE/CVF Conference on Computer Vision and Pattern Recognition, Denver, USA, 2026. [<a href="https://arxiv.org/pdf/2512.02566">Paper</a>] </li>   
 <li><b>[ISBI'26]</b> Yaxuan Jiao, Qing Xu, Yuxiang Luo, Xiangjian He, <b>Zhen Chen<sup>&#9993</sup></b>, Wenting Duan. "TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation", The IEEE International Symposium on Biomedical Imaging, London, UK, 2026. (<span2><b>Oral</b></span2>) [<a href="https://arxiv.org/abs/2511.12270">Paper</a>] [<a href="https://github.com/xq141839/TM-UNet">Code</a>] </li> 
 
