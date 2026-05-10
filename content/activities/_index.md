@@ -21,6 +21,7 @@ header:
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2025</li>
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2024</li>
 <li><span2><b>Aera Chair</b></span2> of ACM BCB 2026</li>
+<li><span2><b>Aera Chair</b></span2> of IEEE BHI 2026</li>
 <li><span2><b>Chair</b></span2> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
 <li><span2><b>Chair</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
 <li><span2><b>Chair</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
@@ -28,6 +29,7 @@ header:
 <li>TPC of The AAAI Conference on Artificial Intelligence (AAAI 2026)</li> 
 <li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2026&2025&2024&2023)</li> 
 <li>TPC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025&2024)</li> 
+<li>TPC of MICCAI Human-AI Collaboration (HAIC) Workshop (2026)</li> 
 <li>TPC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2023&2022)</li>
 <li>TPC of MICCAI 2021 Deep Generative Models (DGM) Workshop</li> 
 </ul>
