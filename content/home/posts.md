@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[Jun 2026] Our paper <span2><b>EffiCell-Seg</b></span2> has been accepted by <span2><b>MICCAI 2026</b></span2>. Congrats to Qing! <be>
 
 [May 2026] Our paper <span2><b>RASP</b></span2> has been early accepted by <span2><b>MICCAI 2026</b></span2>. Congrats to Yuxiang! <be>
 
