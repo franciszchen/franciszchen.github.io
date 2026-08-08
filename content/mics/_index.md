@@ -8,12 +8,7 @@ header:
   image: ""
 ---
 
-<br>
-<h2><b>Fun Facts</b></h2>
-<ul>
-<li>My Ph.D. study is shorter than the Master study. Great thanks to <a href="https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm">my supervisor</a>'s guidance and support!</li>
-<li>None of seven first-author manuscripts were rejected, making me the first graduated Ph.D. in our lab</li>
-</ul>
+
 
 <br>
 <h2><b>Research Collaboration</b></h2>
