@@ -29,9 +29,9 @@ header:
 <br>
 <h2><b>Mentorship</b></h2>
 <ul>
-<li style="margin-bottom: 0.7em;"><br><span style="font-size: 0.88em; color: #747c86;">Mentored several Ph.D. students in AIM Group, CUHK with their first publications in top journals and conferences</span></li>
-<li style="margin-bottom: 0.7em;"><br><span style="font-size: 0.88em; color: #747c86;">Served as the Mentor in the <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2></span></li>
-<li style="margin-bottom: 0.7em;"><br><span style="font-size: 0.88em; color: #747c86;">Served as the Mentor in the <span2><b>MICCAI Society Mentorship Program</b></span2>, and helped Ph.D. students from Sweden, Germany, South Korea, etc.</span></li>
+<li style="margin-bottom: 0.7em;"><span style="font-size: 0.88em; color: #747c86;">Mentored several Ph.D. students in AIM Group, CUHK with their first publications in top journals and conferences</span></li>
+<li style="margin-bottom: 0.7em;"><span style="font-size: 0.88em; color: #747c86;">Served as the Mentor in the <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2></span></li>
+<li style="margin-bottom: 0.7em;"><span style="font-size: 0.88em; color: #747c86;">Served as the Mentor in the <span2><b>MICCAI Society Mentorship Program</b></span2>, and helped Ph.D. students from Sweden, Germany, South Korea, etc.</span></li>
 </ul>
 
 
