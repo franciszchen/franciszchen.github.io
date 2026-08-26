@@ -12,7 +12,7 @@ header:
 
 <br>
 <p>
-We are currently recruiting self-motivated <span2><b>Ph.D. students for Fall 2027 entry</b></span2> and also welcome applications for <span2><b>Spring 2027 entry</b></span2>. We are also seeking <span2><b>Research Assistants and Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
+We are currently recruiting self-motivated <span2><b>Ph.D. students for Spring/Fall 2027 entry</b></span2>. We also welcome <span2><b>Research Assistants and Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
 </p>
 <p>
 Our lab stands at the forefront of the <b>Generative AI revolution in healthcare</b>. We bridge the gap between fundamental AI innovation and clinical reality, aiming to develop <span2><b>Generalizable, Agentic, and Multimodal AI systems</b></span2> that can perceive, reason, and act in complex medical environments.
@@ -68,11 +68,11 @@ Please email <span2><b>z.chen@polyu.edu.hk</b></span2> with the subject <span2><
 <br>
 <h2><b>💡 Notes</b></h2>
 <ul>
-<li style="margin-bottom: 0.7em;"><span2><b>Ph.D. Scholarships</b></span2><br><span style="font-size: 0.92em; color: #606872;">Scholarship opportunities include <b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, <b>PolyU Presidential PhD Fellowship Scheme (PPPFS)</b>, and <b>PolyU Research Postgraduate Scholarship (PRPgS)</b>. Please visit the <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/">PolyU Fellowship and Scholarship Schemes</a> for details.</span></li>
-<li style="margin-bottom: 0.7em;"><span2><b>HKPFS Applicants</b></span2><br><span style="font-size: 0.92em; color: #606872;">Candidates with an outstanding academic record are encouraged to contact me before October.</span></li>
-<li style="margin-bottom: 0.7em;"><span2><b>Undergraduate Research</b></span2><br><span style="font-size: 0.92em; color: #606872;">PolyU undergraduate students are welcome to join us through the <a href="https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/">Undergraduate Research and Innovation Scheme (URIS)</a>.</span></li>
-<li style="margin-bottom: 0.7em;"><span2><b>Research Internships</b></span2><br><span style="font-size: 0.92em; color: #606872;">On-site and remote research internship will be considered based on the candidate’s availability, and alignment with ongoing projects.</span></li>
-<li style="margin-bottom: 0.7em;"><span2><b>Response Policy</b></span2><br><span style="font-size: 0.92em; color: #606872;">Please be assured that I personally review every application with care. However, I will only be able to contact shortlisted candidates for interviews due to the high volume of inquiries. I genuinely appreciate your time and interest in our lab, and wish you the very best in your academic journey.</span></li>
+<li style="margin-bottom: 0.7em;"><b>Ph.D. Scholarships</b><br><span style="font-size: 0.92em; color: #606872;">Scholarship opportunities include <b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, <b>PolyU Presidential PhD Fellowship Scheme (PPPFS)</b>, and <b>PolyU Research Postgraduate Scholarship (PRPgS)</b>. Please visit the <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/">PolyU Fellowship and Scholarship Schemes</a> for details.</span></li>
+<li style="margin-bottom: 0.7em;"><b>HKPFS Applicants</b><br><span style="font-size: 0.92em; color: #606872;">Candidates with an outstanding academic record are encouraged to contact me before October.</span></li>
+<li style="margin-bottom: 0.7em;"><b>Undergraduate Research</b><br><span style="font-size: 0.92em; color: #606872;">PolyU undergraduate students are welcome to join us through the <a href="https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/">Undergraduate Research and Innovation Scheme (URIS)</a>.</span></li>
+<li style="margin-bottom: 0.7em;"><b>Research Internships</b><br><span style="font-size: 0.92em; color: #606872;">On-site and remote research internship will be considered based on the candidate’s availability, and alignment with ongoing projects.</span></li>
+<li style="margin-bottom: 0.7em;"><b>Response Policy</b><br><span style="font-size: 0.92em; color: #606872;">Please be assured that I personally review every application with care. However, I will only be able to contact shortlisted candidates for interviews due to the high volume of inquiries. I genuinely appreciate your time and interest in our lab, and wish you the very best in your academic journey.</span></li>
 </ul>
 
 <br>
