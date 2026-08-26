@@ -12,7 +12,7 @@ header:
 
 <br>
 <p>
-We are currently recruiting self-motivated <span2><b>Ph.D. students for Spring/Fall 2027 entry</b></span2>. We also welcome <span2><b>Research Assistants and Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
+We are currently recruiting self-motivated <span2><b>Ph.D. students for Spring/Fall 2027 entry</b></span2>. We also welcome <span2><b>Research Assistants</b></span2> and <span2><b>Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
 </p>
 <p>
 Our lab stands at the forefront of the <b>Generative AI revolution in healthcare</b>. We bridge the gap between fundamental AI innovation and clinical reality, aiming to develop <span2><b>Generalizable, Agentic, and Multimodal AI systems</b></span2> that can perceive, reason, and act in complex medical environments.
@@ -41,7 +41,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <br>
 <h2><b>🎯 Requirements</b></h2>
 <p>
-The following requirements primarily apply to <span2><b>Ph.D. and Research Assistant applicants</b></span2>:
+The following requirements primarily apply to Ph.D. applicants:
 </p>
 <ul>
 <li style="margin-bottom: 0.45em;">B.S. or M.S. degree in CS, AI, DS, EE, BME, Math, Automation, or related fields.</li>
@@ -49,9 +49,6 @@ The following requirements primarily apply to <span2><b>Ph.D. and Research Assis
 <li style="margin-bottom: 0.45em;">Experience in CV, NLP, or Deep Learning. Prior work on LLMs, Agents, or Diffusion is a strong plus.</li>
 <li style="margin-bottom: 0.45em;">A genuine passion for solving healthcare problems and resilience in tackling high-impact questions.</li>
 </ul>
-<p style="font-size: 0.92em; color: #606872;">
-Applications for research internships will be considered based on the candidate’s background, availability, and alignment with ongoing projects.
-</p>
 
 <br>
 <h2><b>📝 How to Apply</b></h2>
