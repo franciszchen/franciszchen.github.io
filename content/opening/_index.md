@@ -26,7 +26,7 @@ Our lab stands at the forefront of the <b>Generative AI revolution in healthcare
 <ul>
 <li style="margin-bottom: 0.7em;"><b>Medical Foundation Models</b><br><span style="font-size: 0.92em; color: #606872;">Developing multimodal foundation models that integrate medical imaging, surgical video, electronic health records, and biomedical literature to support comprehensive clinical reasoning.</span></li>
 <li style="margin-bottom: 0.7em;"><b>Agentic AI for Healthcare</b><br><span style="font-size: 0.92em; color: #606872;">Building clinical AI agents and intelligent copilots with capabilities in autonomous planning, multimodal reasoning, and video-language-action learning.</span></li>
-<li style="margin-bottom: 0.7em;"><b>Translational AI</b><br><span style="font-size: 0.92em; color: #606872;">Moving beyond algorithm development to build deployable prototypes and conduct rigorous validation in real-world clinical settings.</span></li>
+<li style="margin-bottom: 0.7em;"><b>Translational AI</b><br><span style="font-size: 0.92em; color: #606872;">Moving beyond algorithm development to build deployable prototypes and conduct validation in real-world clinical settings.</span></li>
 </ul>
 
 <br>
