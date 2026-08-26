@@ -10,6 +10,7 @@ header:
 
 <br>
 <h2><b>PhD Students</b></h2>
+<ul>
 <li>Haiman Guo (2026 Fall-Present)</li>
 M.S Johns Hopkins University; B.S. South China University of Technology
 <li>Junyi Zeng (2026 Fall-Present)</li>
