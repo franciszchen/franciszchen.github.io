@@ -42,7 +42,7 @@
   weight = 60
 
 [[main]]
-  name = "Supervision"
+  name = "Team"
   url = "students/"
   weight = 70
 
