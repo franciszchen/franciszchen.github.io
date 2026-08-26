@@ -8,33 +8,205 @@ header:
   image: ""
 ---
 
-<br>
-<h2><b>PhD Students</b></h2>
-<ul>
-<li><span2><b>Haiman Guo</b></span2> (2026 Fall-Present)</li>
-M.S. Johns Hopkins University; B.S. South China University of Technology
-<li><span2><b>Junyi Zeng</b></span2> (2026 Fall-Present)</li>
-B.S. Sichuan University
-<li><span2><b>Yanchen Mu</b></span2> (2026 Fall-Present; co-supervised by Prof. <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>)</li>
-M.S. Peking University; B.S. Xi'an Jiaotong University
-<li><span2><b>Ruipeng Ma</b></span2> (2026 Fall-Present; co-supervised by Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>)</li>
-M.S. University of Electronic Science and Technology of China; B.S. Henan University; 3 * National Scholarships
-</ul>
+<style>
+.people-page {
+  color: #2f343b;
+  font-size: 1rem;
+  line-height: 1.65;
+}
 
-<br>
-<h2><b>Alumni</b></h2>
-<ul>
-<li><a href="https://helenypzhang.github.io/">Yupei Zhang</a> (RA, 2022-2024; PhD candidate at University of Cambridge)</li>
-<li><a href="https://peterlipan.github.io/">Li Pan</a> (RA, 2022-2024; PhD candidate at The University of Edinburgh)</li>
-<li><a href="https://scholar.google.com/citations?hl=zh-CN&user=IzA-Ij8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Qing Xu</a> (RA, 2023-2024; PhD candidate at The University of Nottingham Ningbo China)</li>
-<li><a href="https://zikunliu6.github.io/">Zikun Liu</a> (RA, USTC Gifted Young, 2018-2019; PhD at University of Illinois at Urbana-Champaign)</li>
-</ul>
+.people-page section {
+  margin-bottom: 2.6rem;
+}
 
-<br>
-<h2><b>Mentorship</b></h2>
-<ul>
-<li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
-<li>Served as the Mentor in the <span2><b>MICCAI 2025 Young Researcher Excellence Training Program</b></span2></li>
-<li>Served as the Mentor in the <span2><b>MICCAI Society Mentorship Program</b></span2>, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
-</ul>
+.people-page h2 {
+  margin: 0 0 1rem;
+  padding-bottom: 0.35rem;
+  color: #252a30;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  border-bottom: 1px solid #e7e9ec;
+}
 
+.people-list,
+.alumni-list,
+.mentorship-list {
+  margin: 0;
+  padding-left: 1.4rem;
+}
+
+.people-list li {
+  margin-bottom: 0.9rem;
+  padding-left: 0.15rem;
+}
+
+.person-line {
+  line-height: 1.45;
+}
+
+.person-name {
+  color: #252a30;
+  font-weight: 700;
+}
+
+.person-period,
+.supervision {
+  color: #606872;
+}
+
+.education {
+  margin-top: 0.15rem;
+  color: #747c86;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.people-page a {
+  color: #3267c8;
+  text-decoration: none;
+}
+
+.people-page a:hover {
+  color: #1f4f9f;
+  text-decoration: underline;
+}
+
+.alumni-list li,
+.mentorship-list li {
+  margin-bottom: 0.45rem;
+}
+
+.highlight {
+  color: #30363d;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .people-page h2 {
+    font-size: 1.5rem;
+  }
+
+  .education {
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+<div class="people-page">
+
+<section>
+  <h2>PhD Students</h2>
+
+  <ul class="people-list">
+    <li>
+      <div class="person-line">
+        <span class="person-name">Haiman Guo</span>
+        <span class="person-period"> (Fall 2026–Present)</span>
+      </div>
+      <div class="education">
+        M.S., Johns Hopkins University; B.S., South China University of Technology
+      </div>
+    </li>
+
+    <li>
+      <div class="person-line">
+        <span class="person-name">Junyi Zeng</span>
+        <span class="person-period"> (Fall 2026–Present)</span>
+      </div>
+      <div class="education">
+        B.S., Sichuan University
+      </div>
+    </li>
+
+    <li>
+      <div class="person-line">
+        <span class="person-name">Yanchen Mu</span>
+        <span class="person-period"> (Fall 2026–Present)</span>
+        <span class="supervision">
+          · Co-supervised by Prof.
+          <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>
+        </span>
+      </div>
+      <div class="education">
+        M.S., Peking University; B.S., Xi’an Jiaotong University
+      </div>
+    </li>
+
+    <li>
+      <div class="person-line">
+        <span class="person-name">Ruipeng Ma</span>
+        <span class="person-period"> (Fall 2026–Present)</span>
+        <span class="supervision">
+          · Co-supervised by Prof.
+          <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>
+        </span>
+      </div>
+      <div class="education">
+        M.S., University of Electronic Science and Technology of China;
+        B.S., Henan University; three-time recipient of the National Scholarship
+      </div>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Alumni</h2>
+
+  <ul class="alumni-list">
+    <li>
+      <a href="https://helenypzhang.github.io/">Yupei Zhang</a>
+      <span class="person-period">
+        (RA, 2022–2024; PhD candidate at the University of Cambridge)
+      </span>
+    </li>
+
+    <li>
+      <a href="https://peterlipan.github.io/">Li Pan</a>
+      <span class="person-period">
+        (RA, 2022–2024; PhD candidate at the University of Edinburgh)
+      </span>
+    </li>
+
+    <li>
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=IzA-Ij8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate">
+        Qing Xu
+      </a>
+      <span class="person-period">
+        (RA, 2023–2024; PhD candidate at the University of Nottingham Ningbo China)
+      </span>
+    </li>
+
+    <li>
+      <a href="https://zikunliu6.github.io/">Zikun Liu</a>
+      <span class="person-period">
+        (RA, USTC Gifted Young, 2018–2019; PhD at the University of Illinois Urbana-Champaign)
+      </span>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Mentorship</h2>
+
+  <ul class="mentorship-list">
+    <li>
+      Mentored several PhD students in the AIM Group at CUHK toward their first
+      publications in leading journals and conferences
+    </li>
+
+    <li>
+      Served as a mentor in the
+      <span class="highlight">MICCAI 2025 Young Researcher Excellence Training Program</span>
+    </li>
+
+    <li>
+      Served as a mentor in the
+      <span class="highlight">MICCAI Society Mentorship Program</span>,
+      supporting PhD students from Sweden, Germany, South Korea, and other countries
+    </li>
+  </ul>
+</section>
+
+</div>
