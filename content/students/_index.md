@@ -9,6 +9,14 @@ header:
 ---
 
 <br>
+<h2><b>PhD Students</b></h2>
+<li>Haiman Guo (2026 Fall-Present)</li>
+<li>Junyi Zeng (2026 Fall-Present)</li>
+<li>Yanchen Mu (2026 Fall-Present; co-supervised by Prof. <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>)</li>
+<li>Ruipeng Ma (2026 Fall-Present; co-supervised by Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>)</li>
+</ul>
+
+<br>
 <h2><b>Alumni</b></h2>
 <ul>
 <li><a href="https://helenypzhang.github.io/">Yupei Zhang</a> (RA, 2022-2024; PhD candidate at University of Cambridge)</li>
