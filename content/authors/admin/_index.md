@@ -86,7 +86,7 @@ My research interests focus on the intersection of AI and Healthcare. My work al
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-<span1><b>We are looking for passionate Ph.D. students for Spring/Fall 2027 entry, and also welcoming RAs and Research Interns to join the team <a href="https://franciszchen.github.io/opening/">(More info)</a></b></span1>
+<span1><b>We are looking for passionate Ph.D. students for Spring/Fall 2027 entry, and also welcome RAs and Research Interns to join the team <a href="https://franciszchen.github.io/opening/">(More info)</a></b></span1>
 </p>
 
 <style>
