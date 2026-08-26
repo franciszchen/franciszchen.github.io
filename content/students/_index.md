@@ -11,14 +11,14 @@ header:
 <br>
 <h2><b>PhD Students</b></h2>
 <ul>
-<li>Haiman Guo (2026 Fall-Present)</li>
-M.S Johns Hopkins University; B.S. South China University of Technology
-<li>Junyi Zeng (2026 Fall-Present)</li>
+<li><span2><b>Haiman Guo</b></span2> (2026 Fall-Present)</li>
+M.S. Johns Hopkins University; B.S. South China University of Technology
+<li><span2><b>Junyi Zeng</b></span2> (2026 Fall-Present)</li>
 B.S. Sichuan University
-<li>Yanchen Mu (2026 Fall-Present; co-supervised by Prof. <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>)</li>
-M.S Peking University; B.S. Xi'an Jiaotong University
-<li>Ruipeng Ma (2026 Fall-Present; co-supervised by Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>)</li>
-M.S University of Electronic Science and Technology of China; B.S. Henan University; 3 * National Scholarships
+<li><span2><b>Yanchen Mu</b></span2> (2026 Fall-Present; co-supervised by Prof. <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>)</li>
+M.S. Peking University; B.S. Xi'an Jiaotong University
+<li><span2><b>Ruipeng Ma</b></span2> (2026 Fall-Present; co-supervised by Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>)</li>
+M.S. University of Electronic Science and Technology of China; B.S. Henan University; 3 * National Scholarships
 </ul>
 
 <br>
