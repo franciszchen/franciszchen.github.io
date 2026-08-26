@@ -11,9 +11,13 @@ header:
 <br>
 <h2><b>PhD Students</b></h2>
 <li>Haiman Guo (2026 Fall-Present)</li>
+M.S Johns Hopkins University; B.S. South China University of Technology
 <li>Junyi Zeng (2026 Fall-Present)</li>
+B.S. Sichuan University
 <li>Yanchen Mu (2026 Fall-Present; co-supervised by Prof. <a href="https://qingbiaoli.github.io/">Qingbiao Li</a>)</li>
+M.S Peking University; B.S. Xi'an Jiaotong University
 <li>Ruipeng Ma (2026 Fall-Present; co-supervised by Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a>)</li>
+M.S University of Electronic Science and Technology of China; B.S. Henan University; 3 * National Scholarships
 </ul>
 
 <br>
