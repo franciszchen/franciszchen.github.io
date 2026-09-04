@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Sep 2026] Our paper <span2><b>FreqDINO++</b></span2> has been accepted by <span2><b>IEEE Transactions on Biomedical Engineering</b></span2>. Congrats to Qing, Yixuan and Yue! <be>
+
 [Aug 2026] Our paper <span2><b>MSM-Seg</b></span2> has been accepted by <span2><b>IEEE Transactions on Multimedia</b></span2>. Congrats to Yuxiang and Qing! <be>
 
 [Jun 2026] Our paper <span2><b>EffiCell-Seg</b></span2> has been accepted by <span2><b>MICCAI 2026</b></span2>. Congrats to Qing! <be>
