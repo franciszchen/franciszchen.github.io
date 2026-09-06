@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[Sep 2026] Our paper <span2><b>SOA</b></span2> on Sampling-free Universal DAOD has been accepted by <span2><b>International Journal of Computer Vision</b></span2>. Congrats to Yuanfan! <be>
+
 [Sep 2026] Our paper <span2><b>FreqDINO++</b></span2> has been accepted by <span2><b>IEEE Transactions on Biomedical Engineering</b></span2>. Congrats to Qing, Yixuan and Yue! <be>
 
 [Aug 2026] Our paper <span2><b>MSM-Seg</b></span2> has been accepted by <span2><b>IEEE Transactions on Multimedia</b></span2>. Congrats to Yuxiang and Qing! <be>
