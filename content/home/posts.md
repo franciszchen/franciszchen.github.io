@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[Sep 2026] Our paper <span2><b>SurgVeo</b></span2> on Surgical Video Model Assessment has been accepted by <span2><b>npj Digital Medicine</b></span2> <be>
+[Sep 2026] Our paper <span2><b>SurgVeo</b></span2> on Surgical World Model Assessment has been accepted by <span2><b>npj Digital Medicine</b></span2> <be>
 
 [Sep 2026] Our paper <span2><b>SOA</b></span2> on Sampling-free Universal DAOD has been accepted by <span2><b>International Journal of Computer Vision</b></span2>. Congrats to Yuanfan! <be>
 
