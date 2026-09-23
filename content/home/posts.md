@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 [Sep 2026] Our paper <span2><b>Eye-Brain Connection Pyramid</b></span2> has been accepted by <span2><b>National Science Review</b></span2> <be>
 
 [Sep 2026] Our paper <span2><b>SurgVeo</b></span2> on Surgical World Model Assessment has been accepted by <span2><b>npj Digital Medicine</b></span2> <be>
