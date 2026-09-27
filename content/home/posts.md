@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[Sep 2026] We achieved 1st place in MICCAI 2026 MultiBypass Surgical Action Triplet Challenge. Congrats to our team SurgTrip!
+[Sep 2026] We achieved 1st place in the <a href="https://conferences.miccai.org/2026/en/default.asp">MICCAI 2026</a> <span2><b><a href="https://camma-public.github.io/mbt40_challenge/">MultiBypass Surgical Action Triplet Challenge</a></b></span2>. Congrats to our team SurgTrip!<be>
 
 [Sep 2026] Our paper <span2><b>Eye-Brain Connection Pyramid</b></span2> has been accepted by <span2><b>National Science Review</b></span2> <be>
 
