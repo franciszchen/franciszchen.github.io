@@ -22,10 +22,12 @@ header:
 <li><span2><b>Aera Chair</b></span2> of MICCAI 2024</li>
 <li><span2><b>Aera Chair</b></span2> of ACM BCB 2026</li>
 <li><span2><b>Aera Chair</b></span2> of IEEE EMBS BHI 2026</li>
-<li><span2><b>Chair</b></span2> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
-<li><span2><b>Chair</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
-<li><span2><b>Chair</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
-<li><span2><b>Chair</b></span2> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
+<li><span2><b>Organizer</b></span2> of AAAI 2027 Workshop on Medical World Models</li> 
+<li><span2><b>Organizer</b></span2> of ACM MM 2026 Tutorial on Multimodal AI for Healthcare: From Medical Imaging to Omics and Vision–Language Models</li> 
+<li><span2><b>Organizer</b></span2> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
+<li><span2><b>Organizer</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
+<li><span2><b>Organizer</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
+<li><span2><b>Organizer</b></span2> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
 <li><span2><b>Senior Program Committee</b></span2> of The AAAI Conference on Artificial Intelligence (AAAI 2027)</li> 
 <li>TPC of The AAAI Conference on Artificial Intelligence (AAAI 2026)</li> 
 <li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2026&2025&2024&2023)</li> 
