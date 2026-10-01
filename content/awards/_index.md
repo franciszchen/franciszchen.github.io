@@ -10,6 +10,7 @@ header:
 <ul>
 
 <li> 1st Place in MICCAI 2026 MultiBypass Surgical Action Triplet Challenge </li>
+<li> 1st Place in MICCAI 2026 Brain Tumor Segmentation - Metastases (BraTS-METS) Challenge </li>
 <li> 1st Place in ISBI 2026 Foundation Model Challenge for Ultrasound Image Analysis</li>
 <li> Best Poster Award in MICCAI 2026 Mitral Valve Anatomy Analysis Using Multimodal Imaging Data</li>
 <li> Hong Kong Young Scientist Award 2023 (Engineering Science) [<a href="https://drive.google.com/file/d/1MafgsqyKKb2tt4ZOKwDPfii4WpEwPUHq/view?usp=sharing">News</a>]</li>
