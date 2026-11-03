@@ -100,6 +100,8 @@ subtitle = ""
 
 [Jan 2026] Join <span2><b>DSAI, PolyU</b></span2> as a tenure-track Assistant Professor <be>
 
+
+<!--
 [Dec 2025] Two papers <span2><b>Co-Seg++</b></span2> and <span2><b>UniUltra</b></span2> have been accepted by <span2><b>TMI</b></span2> and <span2><b>TMM</b></span2>. Congrats to Qing and Yue! <be>
 
 [Dec 2025] Honored to receive <span2><b>IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer Award</b></span2> for the third consecutive year <be>
@@ -187,7 +189,7 @@ subtitle = ""
 [Feb 2022] Our paper "Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation" has been accepted by <span2><b>Medical Image Analysis</b></span2> <br>
 
 [Jan 2022] I passed the <span2><b>Ph.D. oral defense</b></span2> <br>
-
+-->
 
 <style>
 span2 {
