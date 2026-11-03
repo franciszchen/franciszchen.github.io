@@ -70,6 +70,8 @@ subtitle = ""
 
 [Sep 2026] We achieved 1st place in the <a href="https://conferences.miccai.org/2026/en/default.asp">MICCAI 2026</a> <span2><b><a href="https://camma-public.github.io/mbt40_challenge/">MultiBypass Surgical Action Triplet Challenge</a></b></span2>. Congrats to our team SurgTrip!<be>
 
+[Sep 2026] We will organize the <a href="https://med-wm.github.io/aaai27-mwm/">Medical World Model (MedWM)</a> workshop at AAAI 2027 (Montréal, Canada). Welcome <a href="https://openreview.net/group?id=AAAI.org/2027/Workshop/MEDWM#tab-your-consoles">submissions</a> <be>
+
 [Sep 2026] Our paper <span2><b>Eye-Brain Connection Pyramid</b></span2> has been accepted by <span2><b>National Science Review</b></span2> <be>
 
 [Sep 2026] Our paper <span2><b>SurgVeo</b></span2> on Surgical World Model Assessment has been accepted by <span2><b>npj Digital Medicine</b></span2> <be>
@@ -77,6 +79,8 @@ subtitle = ""
 [Sep 2026] Our paper <span2><b>SOA</b></span2> on Sampling-free Universal DAOD has been accepted by <span2><b>International Journal of Computer Vision</b></span2>. Congrats to Yuanfan! <be>
 
 [Sep 2026] Our paper <span2><b>FreqDINO++</b></span2> has been accepted by <span2><b>IEEE Transactions on Biomedical Engineering</b></span2>. Congrats to Qing, Yixuan and Yue! <be>
+
+[Sep 2026] Welcome Haiman, Junyi, Yanchen, and Ruipeng to join our lab! <be>
 
 [Aug 2026] Our paper <span2><b>MSM-Seg</b></span2> has been accepted by <span2><b>IEEE Transactions on Multimedia</b></span2>. Congrats to Yuxiang and Qing! <be>
 
