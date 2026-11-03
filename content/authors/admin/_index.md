@@ -90,8 +90,7 @@ My research interests focus on the intersection of AI and Healthcare. My work al
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-<span1><b>We will host the <a href="https://med-wm.github.io/aaai27-mwm/">Medical World Model (MedWM)</a> workshop at AAAI 2027 (Montreal)! Welcome <a href="https://openreview.net/group?id=AAAI.org/2027/Workshop/MEDWM#tab-your-consoles">submissions</a>!
-  We are looking for passionate Ph.D. students for Fall 2027 entry, and also welcome RAs and Research Interns to join the team <a href="https://franciszchen.github.io/opening/">(More info)</a></b></span1>
+<span1><b>We will host the <a href="https://med-wm.github.io/aaai27-mwm/">Medical World Model (MedWM)</a> workshop at AAAI 2027 (Montreal)! Welcome <a href="https://openreview.net/group?id=AAAI.org/2027/Workshop/MEDWM#tab-your-consoles">submissions</a>!</b></span1>
 </p>
 
 <style>
