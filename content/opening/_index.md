@@ -12,7 +12,7 @@ header:
 
 <br>
 <p>
-We are currently recruiting self-motivated <span2><b>Ph.D. students for Spring/Fall 2027 entry</b></span2>. We also welcome <span2><b>Research Assistants</b></span2> and <span2><b>Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
+We are currently recruiting self-motivated <span2><b>Ph.D. students for Fall 2027 entry</b></span2>. We also welcome <span2><b>Research Assistants</b></span2> and <span2><b>Research Interns (on-site or remote)</b></span2> to join the <b>Healthcare AI Lab</b> at PolyU DSAI.
 </p>
 <p>
 Our lab stands at the forefront of the <b>Generative AI revolution in healthcare</b>. We bridge the gap between fundamental AI innovation and clinical reality, aiming to develop <span2><b>Generalizable, Agentic, and Multimodal AI systems</b></span2> that can perceive, reason, and act in complex medical environments.
